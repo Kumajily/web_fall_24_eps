@@ -1,0 +1,29 @@
+#baby-blue-text {
+    color: cornflowerblue;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+.nav{
+    list-style: none;      
+} 
+
+.nav li{
+    display: inline;
+    margin-right: 20px;
+}
+
+.copy{
+    back:/ground-color: antiquewhite;
+    color: chartreuse;
+}
+
+.cantim{
+    width: 1000px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 50px;
+    background-color: aliceblue;
+}
